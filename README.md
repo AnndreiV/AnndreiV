@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnndreiV
-- 🌱 I’m currently learning principels of OOP in C++
+- 🌱 I’m currently learning principels of OOP in C++, SQL Oracle, Web Development with JavaScript and React framework.
 
 
 <!---
